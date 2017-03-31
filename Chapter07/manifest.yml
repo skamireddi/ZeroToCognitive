@@ -3,11 +3,11 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: Z2C
-  host: Z2C
+  name: Z2C-sesh
+  host: Z2C-sesh
   disk_quota: 1024M
   services:
-    - Speech to Text-xx
-    - Text to Speech-xx
-    - Natural Language Classifier-xx
-    - Cloudant NoSQL DB-xx
+    - Speech to Text-5y
+    - Text to Speech-xv
+    - Natural Language Classifier-mm
+    - Cloudant NoSQL DB-6m
